@@ -33,7 +33,7 @@ Here’s a sneak peek at what I’ve built so far:
 |----------|----------|
 | ![](assets/sample_before.jpg) | ![](assets/sample_after.jpg) |
 
-> Want to try these yourself? Head over to the [`01_image_processing_with_pillow.ipynb`](./01_image_processing_with_pillow.ipynb) notebook to explore.
+> Want to try these yourself? Head over to the [`01_image_manipulation_using_pillow.ipynb`](./01_image_manipulation_using_pillow.ipynb) notebook to explore.
 
 ---
 
