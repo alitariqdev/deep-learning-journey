@@ -22,10 +22,6 @@ Starting from basic image transformations, my goal is to:
 | Stage | Topic | Notebook | Tools |
 |-------|-------|----------|-------|
 | ✅ | Image Manipulation & Filters | `01_image_processing_with_pillow.ipynb` | `Pillow` |
-| ⏳ | Image Arrays & Histograms | `02_numpy_image_basics.ipynb` | `NumPy`, `matplotlib` |
-| ⏳ | Real-Time Filters, Detection | `03_opencv_image_filters.ipynb` | `OpenCV` |
-| 🔜 | CNN for Digit Recognition | `04_cnn_mnist_classifier.ipynb` | `TensorFlow`, `Keras` |
-| 🔜 | Healthcare Project (Seizure Prediction) | `05_project_seizure_detection.ipynb` | `CNN`, `Custom Dataset` |
 
 ---
 
@@ -57,7 +53,4 @@ Here’s a sneak peek at what I’ve built so far:
 [✔] Pillow: Image basics
 [✔] Enhancing brightness, contrast, and color
 [✔] Filters: BLUR, EDGE, EMBOSS, etc.
-[ ] NumPy image arrays
-[ ] OpenCV detection & segmentation
-[ ] CNNs with TensorFlow/Keras
-[ ] Project: Epileptic Seizure Prediction
+
